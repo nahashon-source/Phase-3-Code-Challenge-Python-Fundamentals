@@ -1,2 +1,5 @@
 nash = 20
-print("nash")
+name = "kid"
+
+print(20)
+print("name")
